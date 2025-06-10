@@ -67,8 +67,8 @@ Through this project, I practiced:
 
 ## 📫 Contact
 
-- GitHub: [@idghim](https://github.com/kroxii)  
-- Email: [ichemdghim@gmail.com](mailto:remii.leon@gmail.com)
+- GitHub: [@kroxii](https://github.com/kroxii)  
+- Email: [remii.leon@gmail.com](mailto:remii.leon@gmail.com)
 
 ---
 
